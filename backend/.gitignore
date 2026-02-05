@@ -1,0 +1,9 @@
+# Dependency folders
+node_modules/
+
+# Environment variables (Secrets)
+.env
+
+# Local database or logs
+*.log
+.DS_Store
