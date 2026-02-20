@@ -1,4 +1,4 @@
-**# 🚗 CarCare Pro: Multi-Tenant Detailing Ecosystem
+ 🚗 CarCare Pro: Multi-Tenant Detailing Ecosystem
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live%20on%20GitHub-success?style=for-the-badge)
 
